@@ -2,7 +2,7 @@
 
 ### 📌 Sobre mim:
 👩‍💻 Desenvolvedora de Software com experiência em Spring Boot e Angular.<br>
-🎓 Estudante de Informática no COTEMIG e formada em Tecnologia da Informação pela ETEC.<br>
+🎓 Estudante de Informática no COTEMIG.<br>
 📚 Sempre buscando aprimorar meus conhecimentos e habilidades.<br>
 🌱 Interessada em desenvolvimento backend, bancos de dados e tecnologia.
 
