@@ -6,8 +6,7 @@
 📚 Sempre buscando aprimorar meus conhecimentos e habilidades.<br>
 🌱 Interessada em desenvolvimento backend, bancos de dados e tecnologia.
 
-### 💻 Tecnologias e Ferramentas:
-<br>
+### 💻 Tecnologias e Ferramentas:<br>
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
