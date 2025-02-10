@@ -13,10 +13,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vulpixdev&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br>
-![](https://github-readme-stats.vercel.app/api?username=vulpixdev&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=seu-usuario&icon=0&color=0)](https://visitcount.itsvg.in)
 
