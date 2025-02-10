@@ -1,4 +1,4 @@
-### Olá, me chamo Bruna! 👋
+## Olá, me chamo Bruna! 👋
 
 ## 📌 Sobre mim:
 👩‍💻 Desenvolvedora de Software com experiência em Spring Boot e Angular.<br>
